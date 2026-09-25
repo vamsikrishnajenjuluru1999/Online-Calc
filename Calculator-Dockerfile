@@ -6,7 +6,7 @@ COPY requirements.txt .
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY Calculator-app1 ./app.py
+COPY Calculator-app1.py ./app.py
 
 EXPOSE 8080
 

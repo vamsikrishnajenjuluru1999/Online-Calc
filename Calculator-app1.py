@@ -6,7 +6,7 @@ HTML = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Online Calculator - Github Actions Test</title>
+    <title>Online Calculator - Github Actions</title>
 </head>
 <body>
     <h1>Online Calculator</h1>
